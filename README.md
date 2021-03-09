@@ -4,7 +4,7 @@
 
 ## Requirements
 
-- [.NET 5](https://dotnet.microsoft.com/download/dotnet/5.0)
+- [.NET Core 5](https://dotnet.microsoft.com/download/dotnet/5.0)
 
 ### Optional
 
